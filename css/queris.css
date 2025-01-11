@@ -377,6 +377,10 @@
 /*/BELOW  544px (Smart Phones) */
 /* ********************************************* */
 @media (max-width: 34em) {
+  .header{
+    padding: 0 24px;
+  }
+
   .footer {
     grid-template-columns: 1fr;
     align-items: center;
